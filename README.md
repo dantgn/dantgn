@@ -22,6 +22,13 @@ Built with   <img src="https://raw.githubusercontent.com/devicons/devicon/master
 
 Visit at <a href="https://www.arkitok.com" target="_blank">arkitok.com</a>
 
+### 🚀 [DANIELS APP]
+
+Daniel's App is just an app that I built to play around with React and Tailwind CSS, and it shows some information about me and my professional career. It's also responsive so the view adapts to mobile and desktop version.
+
+Visit at <a href="https://daniels-app-three.vercel.app/" target="_blank">Daniels App</a>
+
+
 <br/>
 
 ## Get in touch
