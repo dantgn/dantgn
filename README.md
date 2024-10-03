@@ -4,9 +4,9 @@
 
 ## About me
 
-- :evergreen_tree: Senior Software Developer with a strong focus on backend development, primarily using Ruby on Rails and C#. Skilled in these languages with additional knowledge of Java and PHP.
+- :evergreen_tree: Senior Software Developer with a strong focus on Backend development, primarily using Ruby on Rails and C#. Skilled in these languages with additional knowledge of Java and PHP. Used to work with agile methodologies such Scrum and Kanban.
 
-- :palm_tree: Proficient in frontend development technologies such as HTML, CSS, JavaScript and Bootstrap, with recent experience in React. Dedicated to further advancing my expertise in this domain.
+- :palm_tree: Proficient in Frontend development technologies such as HTML, CSS, JavaScript and Bootstrap, with recent experience in ReactJS and TailwindCSS. Dedicated to further advancing my expertise in this domain.
 
 - :seedling: Experience with Relational and no-SQL databases, version control using Git and containerisation with Docker.
 
