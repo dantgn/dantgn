@@ -28,6 +28,8 @@ Visit at <a href="https://www.arkitok.com" target="_blank">arkitok.com</a>
 
 Daniel's App is just an app that I built to play around with React and Tailwind CSS, and it shows some information about me and my professional career. It's also responsive so the view adapts to mobile and desktop version.
 
+Built with  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="25" height="25"/>
+
 Visit <a href="https://daniels-app-three.vercel.app/" target="_blank">Daniels App</a>
 
 
