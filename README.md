@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I'm Daniel 👋</h1>
-<h3 align="center">A passionate Software Developer from Spain, currently living in Basel, Switzerland.</h3>
+<h3 align="center">A passionate Software Developer from Spain, living in Basel, Switzerland.</h3>
 <br/>
 
 ## About me
 
-- :evergreen_tree: Senior Software Developer with a strong focus on Backend development, primarily using Ruby on Rails and C#. Skilled in these languages with additional knowledge of Java and PHP. Used to work with agile methodologies such Scrum and Kanban.
+- :evergreen_tree: Senior Software Developer with a strong focus on Backend development, primarily using Ruby on Rails with additional knowledge of Python, Java and PHP, working with agile methodologies such Scrum or Kanban.
 
 - :palm_tree: Proficient in Frontend development technologies such as HTML, CSS, JavaScript, ReactJS and TailwindCSS. Dedicated to further advancing my expertise in this domain.
 
