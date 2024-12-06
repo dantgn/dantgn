@@ -6,7 +6,7 @@
 
 - :evergreen_tree: Senior Software Developer with a strong focus on Backend development, primarily using Ruby on Rails and C#. Skilled in these languages with additional knowledge of Java and PHP. Used to work with agile methodologies such Scrum and Kanban.
 
-- :palm_tree: Proficient in Frontend development technologies such as HTML, CSS, JavaScript and Bootstrap, with recent experience in ReactJS and TailwindCSS. Dedicated to further advancing my expertise in this domain.
+- :palm_tree: Proficient in Frontend development technologies such as HTML, CSS, JavaScript, ReactJS and TailwindCSS. Dedicated to further advancing my expertise in this domain.
 
 - :seedling: Experience with Relational and no-SQL databases, version control using Git and containerisation with Docker.
 
@@ -14,24 +14,29 @@
 
 ## Projects
 
-### 🚀 [ARKITOK]
+### 🚀 [ARKITOK](https://www.arkitok.com)
 
 Arkitok is a web platform where architects and architectural fans can find their favourite projects, build their own digital library and connect it to their printed publications.
 
-Built with   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="25" height="25"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="25" height="25"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="25" height="25"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="25" height="25"/>
-
-Visit at <a href="https://www.arkitok.com" target="_blank">arkitok.com</a>
+Built with   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="25" height="25"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="25" height="25"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="25" height="25"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="bootstrap" width="25" height="25"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="25" height="25"/>
 
 <br/>
 
-### 🚀 [DANIELS APP]
+## Tech Playground
+
+### 🚀 [REMINDER APP](https://daniels-app-three.vercel.app/)
+
+Reminder App is an App built with ReactJS + Tailwind CSS on the frontend and Python FastAPI on the backend. Simple app to play around with Python and React.
+
+Built with  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="25" height="25"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="25" height="25" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="25" height="25" /> 
+
+<br/>
+
+### 🚀 [DANIELS APP](https://daniels-app-three.vercel.app/)
 
 Daniel's App is just an app that I built to play around with React and Tailwind CSS, and it shows some information about me and my professional career. It's also responsive so the view adapts to mobile and desktop version.
 
-Built with  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="25" height="25"/>
-
-Visit <a href="https://daniels-app-three.vercel.app/" target="_blank">Daniels App</a>
-
+Built with  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="25" height="25"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="bootstrap" width="25" height="25"/> 
 
 <br/>
 
