@@ -24,7 +24,7 @@ Built with   <img src="https://raw.githubusercontent.com/devicons/devicon/master
 
 ## Tech Playground
 
-### 🚀 [REMINDER APP](https://daniels-app-three.vercel.app/)
+### 🚀 [REMINDER APP](https://reminder-tasks-frontend.vercel.app/)
 
 Reminder App is an App built with ReactJS + Tailwind CSS on the frontend and Python FastAPI on the backend. Simple app to play around with Python and React.
 
