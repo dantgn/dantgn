@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Daniel 👋</h1>
-<h3 align="center">A passionate Software Developer from Spain, living in Basel, Switzerland.</h3>
+<h3 align="center">A passionate Software Developer from Spain, based in Basel, Switzerland.</h3>
 <br/>
 
 ## About me
