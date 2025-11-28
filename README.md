@@ -4,11 +4,11 @@
 
 ## About me
 
-- :evergreen_tree: Senior Software Developer with a strong focus on Backend development, primarily using Ruby on Rails with additional knowledge of Python, Java and PHP, working with agile methodologies such Scrum or Kanban.
+- :evergreen_tree: Senior Software Developer focused on backend development, using Ruby on Rails as my main stack. I also have working experience with C# and knowledge of Python, Java, and PHP.
 
 - :palm_tree: Proficient in Frontend development technologies such as HTML, CSS, JavaScript, ReactJS and TailwindCSS. Dedicated to further advancing my expertise in this domain.
 
-- :seedling: Experience with Relational and no-SQL databases, version control using Git and containerisation with Docker.
+- :seedling: Experience with Relational and no-SQL databases, version control using Git.
 
 <br/>
 
