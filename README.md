@@ -30,7 +30,7 @@ La ruta de Aarón (The Aarón Solidarity Hiking Route) honors the memory of Aar�
 
 This project was built together with [Francisco Pelegrí](https://github.com/fpelegri)
 
-Built with  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="25" height="25"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="25" height="25" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="25" height="25" /> 
+Built with  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="25" height="25"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="25" height="25" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="25" height="25" />   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="25" height="25"/>
 
 <br/>
 
@@ -54,5 +54,4 @@ Built with  <img src="https://raw.githubusercontent.com/devicons/devicon/master/
 
 ## Get in touch
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/danielalvareznavarro)
-- ✉️ [Email](mailto:daniel@arkitok.com)
+🌐 &nbsp; [LinkedIn](https://www.linkedin.com/in/danielalvareznavarro) &nbsp; ✉️ &nbsp; [Email](mailto:daniel@arkitok.com)
