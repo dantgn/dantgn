@@ -14,9 +14,17 @@
 
 ## Projects
 
-### 🏬 &nbsp; [ARKITOK](https://www.arkitok.com)
+### 📐 &nbsp; [ARKITOK](https://www.arkitok.com)
 
 Arkitok was a web platform where architects and architectural fans can find their favourite projects, build their own digital library and connect it to their printed publications.
+
+Built with   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="25" height="25"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="25" height="25"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="25" height="25"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="bootstrap" width="25" height="25"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="25" height="25"/>
+
+<br/>
+
+### 🐶 &nbsp; [mimascotica](https://amicanimal.vercel.app/)
+
+mimascotica is a prototype for a project I'm developing. It allows pet owners to find nearby veterinary clinics, with all the website’s content sourced from the Google API.
 
 Built with   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="25" height="25"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="25" height="25"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="25" height="25"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="bootstrap" width="25" height="25"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="25" height="25"/>
 
