@@ -4,11 +4,15 @@
 
 ## About me
 
-- :evergreen_tree: Senior Software Developer focused on backend development, using Ruby on Rails as my main stack. I also have working experience with C# and knowledge of Python, Java, and PHP.
+- Senior Software Engineer with 10+ years of experience building scalable backend systems and distributed applications. 
 
-- :palm_tree: Proficient in Frontend development technologies such as HTML, CSS, JavaScript, ReactJS and TailwindCSS. Dedicated to further advancing my expertise in this domain.
+- Strong background in Ruby on Rails with hands-on experience in C# and Python, and working knowledge of other object-oriented languages such as Java and PHP. 
 
-- :seedling: Experience with Relational and no-SQL databases, version control using Git.
+- Experienced in designing and integrating REST and GraphQL APIs, enabling reliable communication between internal platforms and third-party systems, as well as implementing CI/CD pipelines, monitoring, and logging in cloud-based environments like AWS. 
+
+- Comfortable contributing across the stack with frontend experience in JavaScript, React, and Next.js, and a collaborative team player working closely with engineers, product managers, and domain experts to deliver high-quality software.
+
+- Highly motivated toward data engineering, with a strong interest in large-scale data processing and analytics, currently enrolled in a Master’s program in Data Engineering at the Complutense University of Madrid.
 
 <br/>
 
