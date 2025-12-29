@@ -48,6 +48,14 @@ Built with  <img src="https://raw.githubusercontent.com/devicons/devicon/master/
 
 ## Tech Playground
 
+### 📔 &nbsp; [Research Assistant](https://github.com/dantgn/research-assistant) (WorkInProgress)
+
+This is an open-source project designed to help the scientific community discover and better understand relevant research papers.
+
+The application integrates with the public NCBI Entrez API to access the PubMed database and retrieve biomedical literature based on user queries.
+
+It uses Artificial Intelligence to extract key information from scientific papers and generate concise, structured summaries, helping users quickly grasp the main findings without replacing the original sources.
+
 ### 📔 &nbsp; [Reminder App](https://reminder-tasks-frontend.vercel.app/)
 
 Reminder App is an App built with ReactJS + Tailwind CSS on the frontend and Python FastAPI on the backend. Simple app to play around with Python and React.
