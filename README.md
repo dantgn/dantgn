@@ -48,7 +48,7 @@ Built with  <img src="https://raw.githubusercontent.com/devicons/devicon/master/
 
 ## Tech Playground
 
-### 📔 &nbsp; [Research Assistant](https://github.com/dantgn/research-assistant) (WorkInProgress)
+### 📔 &nbsp; [Research Assistant](https://github.com/dantgn/research-assistant) (Work In Progress)
 
 This is an open-source project designed to help the scientific community discover and better understand relevant research papers.
 
