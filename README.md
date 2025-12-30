@@ -18,17 +18,29 @@
 
 ## Projects
 
-### 📐 &nbsp; [ARKITOK](https://www.arkitok.com)
+### 📔 &nbsp; [Scilents AI](https://scilents-ai.vercel.app/) (Work In Progress)
 
-Arkitok was a web platform where architects and architectural fans can find their favourite projects, build their own digital library and connect it to their printed publications.
+This is an open-source project designed to help the scientific community discover and better understand relevant research papers.
 
-Built with   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="25" height="25"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="25" height="25"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="25" height="25"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="bootstrap" width="25" height="25"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="25" height="25"/>
+The application integrates with the public NCBI Entrez API to access the PubMed database and retrieve biomedical literature based on user queries.
+
+It uses Artificial Intelligence to extract key information from scientific papers and generate concise, structured summaries, helping users quickly grasp the main findings without replacing the original sources.
+
+It is still work in progess but you can already play with it.
+
+Built with   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="25" height="25"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="25" height="25"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="25" height="25"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="bootstrap" width="25" height="25"/>
 
 ### 🐶 &nbsp; [mimascotica](https://amicanimal.vercel.app/)
 
 mimascotica is a prototype for a project I'm developing. It allows pet owners to find nearby veterinary clinics.
 
 All website content has been collected using Google Places API, Web Scraping and use of AI via Groq API and AI model llama-3.1-8b-instant.
+
+Built with   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="25" height="25"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="25" height="25"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="25" height="25"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="bootstrap" width="25" height="25"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="25" height="25"/>
+
+### 📐 &nbsp; [ARKITOK](https://www.arkitok.com)
+
+Arkitok was a web platform where architects and architectural fans can find their favourite projects, build their own digital library and connect it to their printed publications.
 
 Built with   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="25" height="25"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="25" height="25"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="25" height="25"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="bootstrap" width="25" height="25"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="25" height="25"/>
 
@@ -47,14 +59,6 @@ Built with  <img src="https://raw.githubusercontent.com/devicons/devicon/master/
 <br/>
 
 ## Tech Playground
-
-### 📔 &nbsp; [Research Assistant](https://github.com/dantgn/research-assistant) (Work In Progress)
-
-This is an open-source project designed to help the scientific community discover and better understand relevant research papers.
-
-The application integrates with the public NCBI Entrez API to access the PubMed database and retrieve biomedical literature based on user queries.
-
-It uses Artificial Intelligence to extract key information from scientific papers and generate concise, structured summaries, helping users quickly grasp the main findings without replacing the original sources.
 
 ### 📔 &nbsp; [Reminder App](https://reminder-tasks-frontend.vercel.app/)
 
