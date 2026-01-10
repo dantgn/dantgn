@@ -60,6 +60,12 @@ Built with  <img src="https://raw.githubusercontent.com/devicons/devicon/master/
 
 ## Tech Playground
 
+### 📔 &nbsp; [Drug Info Assistant](https://drug-info-assistant.vercel.app/docs)
+
+This is an open-source experimental project designed to help the scientific community search about drug related information. An API that integrates with the public PubChem PUG-REST API to retrieve relevant information about drugs.
+
+Built with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="25" height="25" />
+
 ### 📔 &nbsp; [Reminder App](https://reminder-tasks-frontend.vercel.app/)
 
 Reminder App is an App built with ReactJS + Tailwind CSS on the frontend and Python FastAPI on the backend. Simple app to play around with Python and React.
