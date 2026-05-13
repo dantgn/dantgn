@@ -16,7 +16,18 @@
 
 <br/>
 
-## Projects
+## Data Projects
+
+### 📊 &nbsp; [Madrid Traffic Fines Manager](https://github.com/dantgn/MadridFinesManager)
+
+This is a Python-based data analysis package designed to help manage and explore public traffic fine datasets published by the Madrid City Council through its open data portal: https://datos.madrid.es/
+. The dataset is provided in a highly granular format, organized by month and year, and includes detailed information about each traffic fine in compliance with data protection regulations.
+
+The project provides a structured and efficient way to access, process, and cache this data using reusable Python components. It is built around a modular package called traffic_fines, which is designed for scalability and ease of use in data-driven workflows.
+
+Built with  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="25" height="25" /> 
+
+## Web Projects
 
 ### 📔 &nbsp; [Scilents AI](https://scilents-ai.vercel.app/) (Work In Progress)
 
@@ -29,15 +40,6 @@ It uses Artificial Intelligence to extract key information from scientific paper
 It is still work in progess but you can already play with it.
 
 Built with   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="25" height="25"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="25" height="25"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="25" height="25"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="bootstrap" width="25" height="25"/>
-
-### 📊 &nbsp; [Madrid Traffic Fines Manager](https://github.com/dantgn/MadridFinesManager)
-
-This is a Python-based data analysis package designed to help manage and explore public traffic fine datasets published by the Madrid City Council through its open data portal: https://datos.madrid.es/
-. The dataset is provided in a highly granular format, organized by month and year, and includes detailed information about each traffic fine in compliance with data protection regulations.
-
-The project provides a structured and efficient way to access, process, and cache this data using reusable Python components. It is built around a modular package called traffic_fines, which is designed for scalability and ease of use in data-driven workflows.
-
-Built with  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="25" height="25" /> 
 
 ### 🐶 &nbsp; [mimascotica](https://amicanimal.vercel.app/)
 
