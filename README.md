@@ -29,6 +29,12 @@ Built with  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/
 
 ## Web Projects
 
+### 📄 &nbsp; [Jobs Room](https://job-hunter-ten-gray.vercel.app/) (Work In Progress)
+
+Given the Job-Market situation, and people having the need of keeping track of their job applications, I created this Job-Application Management Platform that helps users organize their entire job search in one place. Track applications through different stages, manage CVs and motivation letters with version history, and keep notes, interviews, emails, and follow-ups organized on a timeline.
+
+Built with   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="25" height="25" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="25" height="25" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="25" height="25" />  
+
 ### 📔 &nbsp; [Scilents AI](https://scilents-ai.vercel.app/) (Work In Progress)
 
 This is an open-source project designed to help the scientific community discover and better understand relevant research papers.
