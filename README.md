@@ -29,7 +29,7 @@ Built with  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/
 
 ## Web Projects
 
-### 📄 &nbsp; [Jobs Room](https://job-hunter-ten-gray.vercel.app/) (Work In Progress)
+### 📄 &nbsp; [Jobs Room](https://www.jobs-room.com/) (Work In Progress)
 
 Given the Job-Market situation, and people having the need of keeping track of their job applications, I created this Job-Application Management Platform that helps users organize their entire job search in one place. Track applications through different stages, manage CVs and motivation letters with version history, and keep notes, interviews, emails, and follow-ups organized on a timeline.
 
