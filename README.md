@@ -27,6 +27,14 @@ The project provides a structured and efficient way to access, process, and cach
 
 Built with  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="25" height="25" /> 
 
+
+### 📥 &nbsp; [Data Ingestion Engine](https://github.com/dantgn/data_ingestion_motor)
+
+A modular data ingestion engine designed to support different data sources and formats through a flexible, extensible architecture. The project currently supports batch ingestion from files (JSON, Avro, binary files, etc.) and streaming ingestion from Kafka, with helper components for source-specific processing such as image metadata extraction.
+
+The architecture separates the ingestion engine, dataset implementations, and supporting helpers, making it easy to extend with new data sources and formats.
+
+
 ## Web Projects
 
 ### 📄 &nbsp; [Jobs Room](https://www.jobs-room.com/) (Work In Progress)
