@@ -55,14 +55,6 @@ It is still work in progess but you can already play with it.
 
 Built with   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="25" height="25"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="25" height="25"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="25" height="25"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="bootstrap" width="25" height="25"/>
 
-### 🐶 &nbsp; [mimascotica](https://amicanimal.vercel.app/)
-
-mimascotica is a prototype for a project I'm developing. It allows pet owners to find nearby veterinary clinics.
-
-All website content has been collected using Google Places API, Web Scraping and use of AI via Groq API and AI model llama-3.1-8b-instant.
-
-Built with   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="25" height="25"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="25" height="25"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="25" height="25"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="bootstrap" width="25" height="25"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="25" height="25"/>
-
 ### 📐 &nbsp; [ARKITOK](https://www.arkitok.com)
 
 Arkitok was a web platform where architects and architectural fans can find their favourite projects, build their own digital library and connect it to their printed publications.
